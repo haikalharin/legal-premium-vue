@@ -7,7 +7,7 @@
         </div>
   
         <a
-          href="https://wa.me/6281234567890?text=Halo%20saya%20butuh%20bantuan%20legal"
+          href="https://wa.me/6285121520998?text=Halo%20saya%20butuh%20bantuan%20legal"
           target="_blank"
           class="btn-gold"
         >
