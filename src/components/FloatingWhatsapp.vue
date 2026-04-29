@@ -1,0 +1,9 @@
+<template>
+    <a
+      href="https://wa.me/6281234567890?text=Halo%20saya%20ingin%20konsultasi"
+      target="_blank"
+      class="wa-float"
+    >
+      WA
+    </a>
+    </template>
