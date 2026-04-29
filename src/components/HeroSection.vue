@@ -14,7 +14,7 @@
           <router-link to="/services" class="btn-gold">Explore Services</router-link>
     
           <a
-            href="https://wa.me/6281234567890?text=Halo%20saya%20ingin%20konsultasi"
+            href="https://wa.me/6285121520998?text=Halo%20saya%20ingin%20konsultasi"
             target="_blank"
             class="btn-outline"
           >
